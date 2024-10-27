@@ -27,7 +27,7 @@ sudo apt install gh
 2. Clone the script:
 
 ```bash
-curl -o gh-secrets-script.sh https://raw.githubusercontent.com/your-username/your-repo/main/gh-secrets-script.sh
+curl -o gh-secrets-script.sh https://raw.githubusercontent.com/daxxac/gh-secrets/main/.gh-secrets-script
 chmod +x gh-secrets-script.sh
 ```
 
